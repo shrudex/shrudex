@@ -1,4 +1,8 @@
-<h1 align="center">Hi👋, I'm Shubh Sinha</h1>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  </head>
+<h1 style="font-family: 'Poppins', sans-serif;" align="center">Hi👋, I'm Shubh Sinha</h1>
 <h3 align="center">Passionate about DSA, Web Development, Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrudex&label=Profile%20views&color=0e75b6&style=flat" alt="shrudex" /> </p>
