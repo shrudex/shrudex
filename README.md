@@ -6,11 +6,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubh Sinha
 ===================================================================================================================================
 
-As a sophomore at MIT Manipal👨🏻‍🎓, I am deeply immersed in the world of Data Science and Engineering🔢. Along with my studies, I am also honing my skills in Full-Stack Web Development, Machine Learning, DSA, and Competitive Programming💻. I am driven to achieve excellence in my pursuits and make a positive impact🙂 through my work.
+As a third-year undergraduate at MIT Manipal👨🏻‍🎓, I am deeply immersed in the world of Data Science and Engineering🔢. Along with my studies, I am also honing my skills in Full-Stack Web Development, Machine Learning, DSA, and Competitive Programming💻. I am driven to achieve excellence in my pursuits and make a positive impact🙂 through my work.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [realshubhsinha@gmail.com](mailto:realshubhsinha@gmail.com)
-* 🚀  I'm currently working on [WhatsChat](https://shrudex-whatschat.streamlit.app/)
+* 🚀  I'm currently working on [AutomateWhapp](https://github.com/shrudex/automate-whapp)
 * 🧠  I'm learning React & Node JS
 * 🤝  I'm open to collaborating on Front-End Projects / ML Projects
 * ⚡  I have an ardent passion for cricket and possess a great sense of humor, often amusing those around me.
@@ -30,6 +30,7 @@ As a sophomore at MIT Manipal👨🏻‍🎓, I am deeply immersed in the world 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
 
