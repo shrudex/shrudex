@@ -10,9 +10,9 @@ As a third-year undergraduate at MIT Manipal👨🏻‍🎓, I am deeply immerse
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [realshubhsinha@gmail.com](mailto:realshubhsinha@gmail.com)
-* 🚀  I'm currently working on [AutomateWhapp](https://github.com/shrudex/automate-whapp)
-* 🧠  I'm learning React & Node JS
-* 🤝  I'm open to collaborating on Front-End Projects / ML Projects
+* 🚀  I'm currently working on [RecipeBook](https://github.com/shrudex/recipe-book)
+* 🧠  I'm learning Socket.IO
+* 🤝  I'm open to collaborating on Full Stack / ML Projects
 * ⚡  I have an ardent passion for cricket and possess a great sense of humor, often amusing those around me.
 
 ### Skills
